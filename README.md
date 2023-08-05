@@ -10,7 +10,12 @@
 </p>
 <br/>
 
-Hello 👋!
+Hello 👋! 
+
+Here is the final look:
+
+![Screenshot from 2023-08-05 15-58-46](https://github.com/Harish-b-03/mercle/assets/69810789/662f83ab-1bde-419d-a334-100ef48e8417)
+
 
 ## Tech Stack
 
