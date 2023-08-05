@@ -14,7 +14,7 @@ Hello 👋!
 
 Here is the final look:
 
-![Screenshot from 2023-08-05 15-58-46](https://github.com/Harish-b-03/mercle/assets/69810789/662f83ab-1bde-419d-a334-100ef48e8417)
+![Screenshot from 2023-08-05 16-01-16](https://github.com/Harish-b-03/mercle/assets/69810789/e0d613c6-8c18-48b9-bb0d-af313cec89a2)
 
 
 ## Tech Stack
